@@ -42,6 +42,7 @@ cd build
 ./dlfcn-sample ../libs/libsample_lib_2.so 
 ```
 
-![Screenshot from 2021-08-08 12-34-37](images/Screenshot from 2021-08-08 12-34-37.png)
+![test1](images/test1.png)
 
-![Screenshot from 2021-08-08 12-34-52](images/Screenshot from 2021-08-08 12-34-52.png)
+![test2](images/test2.png)
+
