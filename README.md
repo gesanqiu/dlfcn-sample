@@ -18,7 +18,7 @@ This is a sample code to show you how to explicit call APIs from different dynam
 │   ├── Interface.h				# outside call interface header
 │   ├── libmath_1.cpp			# implement of libmath_1
 │   ├── libmath_1.h
-│   ├── libmath_2.cpp			# # implement of libmath_2
+│   ├── libmath_2.cpp			# implement of libmath_2
 │   ├── libmath_2.h
 │   ├── libsample_lib_1.so
 │   └── libsample_lib_2.so
@@ -45,4 +45,3 @@ cd build
 ![test1](images/test1.png)
 
 ![test2](images/test2.png)
-
